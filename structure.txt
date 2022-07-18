@@ -1,0 +1,10 @@
+Data Cleaning:
+	Cleaning_Elons_tweets.ipynb
+	stock.ipynb
+
+Keyword Extraction:
+	tokenize_tweets.ipynb
+	target_rework.ipynb
+
+Model Fitting & Visualization:
+	pca_binary.ipynb
